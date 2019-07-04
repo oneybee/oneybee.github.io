@@ -1,20 +1,5 @@
-# Setup
-title: Blog
-tagline: ''
-baseurl: ''
-paginate: 1
-locale: 'en'
-
-# About/contact
-author:
-  name: oneybee
-  url: https://oneybee.github.io/
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
-
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
