@@ -2,7 +2,7 @@
 ---
 title: "React basic!"
 date: 2019-07-04
-categories: React
+categories: React study
 ---
 
 
