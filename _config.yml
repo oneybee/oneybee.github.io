@@ -52,7 +52,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                :  "hojong6636@gmail.com"
+    email                :  #"md5"
   generatedFields:
     date:
       type               : # "date"
@@ -109,7 +109,7 @@ author:
   #name             : "B"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
  # bio              : "I am an amazing person."
-  email            : "hojong6636@mail.com"
+  email            : "oneybee@harbor.school"
   location         : "Seoul"
   links:
     - label: "Email"
@@ -120,7 +120,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/Hojong13"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
