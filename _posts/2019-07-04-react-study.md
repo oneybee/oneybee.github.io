@@ -21,3 +21,5 @@ This is my output.
 ![](./assets/day001.gif)
 
 It looks not great but I think it's good to understand basic of props and state.
+
+[Day001 github link](https://github.com/oneybee/100days-of-react/tree/master/day001-props-state-basic)
