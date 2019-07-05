@@ -18,7 +18,7 @@ So, I tried to make examples of props and state at Day 001.
 
 This is my output.
 
-![](assets/day001.gif)
+![](file://assets/day001.gif)
 
 It looks not beautiful but I think it's good to understand basic of props and state.
 
