@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "B"
 title_separator          : "-"
-name                     : "https://twitter.com/Hojong13"
+#name                     : "https://twitter.com/Hojong13"
 description              : "blog for dev study."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -52,7 +52,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                :  "hojong6636@gmail.com"
   generatedFields:
     date:
       type               : # "date"
