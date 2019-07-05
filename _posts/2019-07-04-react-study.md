@@ -1,5 +1,5 @@
 ---
-title: 'React Study'
+title: 'Day001 props & state'
 date: 2019-07-04
 categories: React props state TIL day001
 ---
@@ -18,7 +18,7 @@ So, I tried to make examples of props and state at Day 001.
 
 This is my output.
 
-![](./assets/day001.gif)
+![](/assets/day001.gif)
 
 It looks not great but I think it's good to understand basic of props and state.
 
